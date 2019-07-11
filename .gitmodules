@@ -1,0 +1,3 @@
+[submodule "jokenpo"]
+	path = jokenpo
+	url = https://github.com/EdsonLucas/jokenpo.git
