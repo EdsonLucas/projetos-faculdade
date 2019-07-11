@@ -4,3 +4,6 @@
 [submodule "hangman"]
 	path = hangman
 	url = https://github.com/EdsonLucas/hangman.git
+[submodule "hash"]
+	path = hash
+	url = https://github.com/EdsonLucas/hash.git
