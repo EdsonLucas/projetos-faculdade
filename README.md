@@ -1,4 +1,4 @@
-# College web projects
+# College projects
 This repository contains projects web from the college.
 
 _OBS: unfortunately some projects are not responsive_
