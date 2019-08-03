@@ -7,3 +7,6 @@
 [submodule "hash"]
 	path = hash
 	url = https://github.com/EdsonLucas/hash.git
+[submodule "jogo21"]
+	path = jogo21
+	url = https://github.com/EdsonLucas/jogo21
